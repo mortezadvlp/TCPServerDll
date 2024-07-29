@@ -14,8 +14,8 @@ namespace TCPServerDll
     public static class TCPServerInfo
     {
         public const string Description = "Create and running a TCP Server.";
-        public const string Developer = "Morteza Mahmoudi";
-        public const string EMail = "morteza5054+dll@gmail.com";
+        public const string Developer = "Morteza";
+        public const string EMail = "mortezadvlp@gmail.com";
     }
 
     /// <summary>

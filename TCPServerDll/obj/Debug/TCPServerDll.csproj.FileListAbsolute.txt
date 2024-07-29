@@ -4,3 +4,9 @@ E:\Morteza\CSharp\Projects\Libraries\TCPServerDll\TCPServerDll\obj\Debug\TCPServ
 E:\Morteza\CSharp\Projects\Libraries\TCPServerDll\TCPServerDll\obj\Debug\TCPServerDll.pdb
 E:\Morteza\CSharp\Projects\Libraries\TCPServerDll\TCPServerDll\obj\Debug\TCPServerDll.csprojResolveAssemblyReference.cache
 E:\Morteza\CSharp\Projects\Libraries\TCPServerDll\TCPServerDll\bin\Debug\TCPServerDll.XML
+G:\Morteza\CSharp\Projects\Libraries\TCPServerDll\TCPServerDll\bin\Debug\TCPServerDll.XML
+G:\Morteza\CSharp\Projects\Libraries\TCPServerDll\TCPServerDll\bin\Debug\TCPServerDll.dll
+G:\Morteza\CSharp\Projects\Libraries\TCPServerDll\TCPServerDll\bin\Debug\TCPServerDll.pdb
+G:\Morteza\CSharp\Projects\Libraries\TCPServerDll\TCPServerDll\obj\Debug\TCPServerDll.csprojResolveAssemblyReference.cache
+G:\Morteza\CSharp\Projects\Libraries\TCPServerDll\TCPServerDll\obj\Debug\TCPServerDll.dll
+G:\Morteza\CSharp\Projects\Libraries\TCPServerDll\TCPServerDll\obj\Debug\TCPServerDll.pdb
