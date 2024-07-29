@@ -1,0 +1,57 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>TCPServerDll</name>
+    </assembly>
+    <members>
+        <member name="T:TCPServerDll.TCPServerInfo">
+            <summary>
+            About this file
+            </summary>
+        </member>
+        <member name="T:TCPServerDll.TCPServer">
+            <summary>
+            Create and running a TCP Server
+            </summary>
+        </member>
+        <member name="M:TCPServerDll.TCPServer.#ctor(System.Int32)">
+            <summary>
+            Create a TCP Server than listens to the specific port.
+            </summary>
+            <param name="port"> The port number that server wants to listen it</param>
+        </member>
+        <member name="M:TCPServerDll.TCPServer.StartServer">
+            <summary>
+            Start TCP Server
+            </summary>
+            <exception cref="T:TCPServerDll.TCPServerException"></exception>
+        </member>
+        <member name="M:TCPServerDll.TCPServer.SendData(System.String,System.Int32,System.String)">
+            <summary>
+            Send text data as tcp packet via TCP server.
+            </summary>
+            <param name="ip">Destination IP</param>
+            <param name="port">Destination Port</param>
+            <param name="text">Data as text</param>
+        </member>
+        <member name="M:TCPServerDll.TCPServer.SendData(System.String,System.Int32,System.Byte[])">
+            <summary>
+            Send byte[] data as tcp packet via TCP server.
+            </summary>
+            <param name="ip">Destination IP</param>
+            <param name="port">Destination Port</param>
+            <param name="data">Data as byte array</param>
+        </member>
+        <member name="M:TCPServerDll.TCPServer.StopServer">
+            <summary>
+            Stop server and dispose all of accepted sockets.
+            </summary>
+        </member>
+        <member name="M:TCPServerDll.TCPServer.GetAcceptedSocketsEndPoint">
+            <summary>
+            Return IpEndPoints of accepted sockets by server.
+            </summary>
+            <returns>List of IpEndPoints of accepted sockets</returns>
+        </member>
+    </members>
+</doc>
