@@ -13,13 +13,13 @@ namespace TCPServerDll
     /// </summary>
     public static class TCPServerInfo
     {
-        public const string Description = "Create and running a TCP Server.";
+        public const string Description = "By this dll file you will be able to setup and run a TCP server for sending and receiving data on a network.";
         public const string Developer = "Morteza";
         public const string EMail = "mortezadvlp@gmail.com";
     }
 
     /// <summary>
-    /// Create and running a TCP Server
+    /// By this dll file you will be able to setup and run a TCP server for sending and receiving data on a network
     /// </summary>
     public class TCPServer
     {
